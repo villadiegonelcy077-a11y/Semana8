@@ -1,0 +1,6 @@
+1. No exponer datos personales ni información privada.
+2. Proteger credenciales y usar contraseñas seguras.
+3. Utilizar siempre conexiones seguras (HTTPS).
+4. Registrar y revisar los accesos a la cuenta.
+5. Limitar el acceso a información sensible o confidencial.
+
