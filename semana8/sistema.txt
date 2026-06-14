@@ -1,0 +1,7 @@
+• uname -a: Muestra información completa del sistema:
+  Linux localhost 4.19.191‑27193134‑abA037MUBSBCYE #1 SMP PREEMPT Fri May 16 22:11:48 KST 2025 aarch64 Android
+  Incluye versión del núcleo, arquitectura y tipo de sistema operativo.
+
+• whoami: Indica el usuario actual: j0_a349.
+
+Es útil conocer estos datos para instalar programas compatibles, gestionar permisos de acceso y resolver fallos al administrar un servidor.

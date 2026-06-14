@@ -5,7 +5,7 @@ pregunta 2:
 Respuesta:A
 
 pregunta 3:
-Respuesta:B
+respuesta:B
 
 pregunta 4:
 Respuesta:B
